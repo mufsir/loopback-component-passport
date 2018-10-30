@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-passport",
+  "name": "lb-component-passport",
   "description": "LoopBack passport integration to support third party logins and account linking",
   "engines": {
     "node": ">=6"
@@ -11,20 +11,20 @@
     "login",
     "security"
   ],
-  "homepage": "https://github.com/strongloop/loopback-component-passport",
+  "homepage": "https://github.com/mufsir/loopback-component-passport",
   "version": "3.10.0",
   "maintainers": [
     {
-      "name": "Raymond Feng",
-      "email": "raymond@strongloop.com"
+      "name": "Mufsir",
+      "email": "mufsiraka@gmail.com"
     }
   ],
   "bugs": {
-    "url": "https://github.com/strongloop/loopback-component-passport/issues"
+    "url": "https://github.com/mufsir/loopback-component-passport/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/strongloop/loopback-component-passport.git"
+    "url": "git://github.com/mufsir/loopback-component-passport.git"
   },
   "dependencies": {
     "passport": "^0.4.0",
