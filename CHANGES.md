@@ -1,3 +1,8 @@
+2018-11-04, Version 3.10.2
+==========================
+
+ * fix state param for session true and false conditions (mufsir)
+
 2018-07-09, Version 3.10.0
 ==========================
 
